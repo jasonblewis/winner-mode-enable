@@ -23,10 +23,10 @@
 
 ;; Winner mode has been distributed with emacs since version 20
 ;; however it is not enabled by default. This package simply enables
-;; it as per the winner mode instructions
-
+;; it as per the winner mode instructions:
 ;; http://www.emacswiki.org/emacs/WinnerMode
-
+;;
+;; 
 ;;; Code:
 (when (fboundp 'winner-mode)
       (winner-mode 1))
