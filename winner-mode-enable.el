@@ -1,9 +1,12 @@
-;;; winner-mode-enable.el --- enable winner mode if it is available
+;;; winner-mode-enable.el --- enable winner-mode if it is available
 
 ;; Copyright (C) 2014  Jason Lewis
 
 ;; Author: Jason Lewis <jason@dickson.st>
-;; Keywords: winner mode
+;; Maintainer: Jason Lewis <jason@dickson.st>
+;; URL: https://github.com/jasonblewis/winner-mode-enable
+;; Created: 23rd January 2015
+;; Keywords: winner-mode
 ;; Version: 0.0.5
 
 ;; This program is free software; you can redistribute it and/or modify
@@ -25,6 +28,10 @@
 ;; however it is not enabled by default. This package simply enables
 ;; it as per the winner mode instructions:
 ;; http://www.emacswiki.org/emacs/WinnerMode
+
+;; This is the first package I have created that implements an idea I
+;; have had for some time, that is to make packages that provide micro
+;; features or turn features on and off in emacs.
 ;;
 ;; 
 ;;; Code:
