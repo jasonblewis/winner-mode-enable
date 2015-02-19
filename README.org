@@ -17,5 +17,5 @@ An idea I have had for some time that I am finally testing out.
 * Install
 This package is on marmalade. Install it from marmalade
 #+BEGIN_SRC lisp
-package-install enable-marmalade
+package-install winner-mode-enable
 #+END_SRC
