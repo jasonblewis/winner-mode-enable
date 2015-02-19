@@ -12,7 +12,7 @@ winner-mode is included in emacs since version 20 however it is not
 enabled.
 
 This is an experiment in making packages that enable micro features.
-An idea I have had for somet time that I am finally testing out.
+An idea I have had for some time that I am finally testing out.
 
 * Install
 This package is on marmalade. Install it from marmalade
